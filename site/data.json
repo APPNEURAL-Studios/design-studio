@@ -1,0 +1,169 @@
+{
+  "slug": "design-studio",
+  "host": "design",
+  "title": "Design Studio",
+  "tagline": "Canvas, image, vector, brand, infographic",
+  "description": "Create graphics with canvas, photo, vector, and pixel-art editors. Design logos, icons, banners, posters, and infographics, then manage brand kits, design tokens, themes, and style guides to keep every asset on-brand.",
+  "editors": [
+    {
+      "category": "Graphic & Visual Editors",
+      "name": "Visual Canvas Editor",
+      "desc": "Freeform canvas for compositing visuals"
+    },
+    {
+      "category": "Graphic & Visual Editors",
+      "name": "Image Editor",
+      "desc": "Core image manipulation (crop, resize, filters)"
+    },
+    {
+      "category": "Graphic & Visual Editors",
+      "name": "Photo Editor",
+      "desc": "Photo retouching, color correction, effects"
+    },
+    {
+      "category": "Graphic & Visual Editors",
+      "name": "Vector Editor",
+      "desc": "SVG/path-based vector drawing"
+    },
+    {
+      "category": "Graphic & Visual Editors",
+      "name": "Drawing/Paint Editor",
+      "desc": "Freehand drawing and painting"
+    },
+    {
+      "category": "Graphic & Visual Editors",
+      "name": "Pixel Art Editor",
+      "desc": "Pixel-level sprite and art creation"
+    },
+    {
+      "category": "Graphic & Visual Editors",
+      "name": "Infographic Editor",
+      "desc": "Data-driven visual infographic builder"
+    },
+    {
+      "category": "Graphic & Visual Editors",
+      "name": "Poster/Flyer Editor",
+      "desc": "Print-ready poster and flyer design"
+    },
+    {
+      "category": "Graphic & Visual Editors",
+      "name": "Banner Editor",
+      "desc": "Web/social banner creation"
+    },
+    {
+      "category": "Graphic & Visual Editors",
+      "name": "Logo Editor",
+      "desc": "Logo design and branding marks"
+    },
+    {
+      "category": "Graphic & Visual Editors",
+      "name": "Icon Editor",
+      "desc": "Icon set design and export"
+    },
+    {
+      "category": "Graphic & Visual Editors",
+      "name": "Collage Editor",
+      "desc": "Multi-image collage layouts"
+    },
+    {
+      "category": "Graphic & Visual Editors",
+      "name": "Mockup Editor",
+      "desc": "Product/device mockup rendering"
+    },
+    {
+      "category": "Graphic & Visual Editors",
+      "name": "Meme Editor",
+      "desc": "Quick meme generation"
+    },
+    {
+      "category": "Graphic & Visual Editors",
+      "name": "Thumbnail Editor",
+      "desc": "Video/content thumbnail creation"
+    },
+    {
+      "category": "Graphic & Visual Editors",
+      "name": "Background Editor",
+      "desc": "Background removal/replacement"
+    },
+    {
+      "category": "Graphic & Visual Editors",
+      "name": "Pattern/Texture Editor",
+      "desc": "Seamless pattern and texture design"
+    },
+    {
+      "category": "Graphic & Visual Editors",
+      "name": "QR/Barcode Editor",
+      "desc": "QR code and barcode generation"
+    },
+    {
+      "category": "Brand & Asset-Management Editors",
+      "name": "Brand Kit Editor",
+      "desc": "Centralized brand colors, fonts, logos"
+    },
+    {
+      "category": "Brand & Asset-Management Editors",
+      "name": "Theme Editor",
+      "desc": "Visual theme configuration"
+    },
+    {
+      "category": "Brand & Asset-Management Editors",
+      "name": "Design Token Editor",
+      "desc": "Design token management (spacing, color, type)"
+    },
+    {
+      "category": "Brand & Asset-Management Editors",
+      "name": "Asset Library Editor",
+      "desc": "Organize and manage design assets"
+    },
+    {
+      "category": "Brand & Asset-Management Editors",
+      "name": "Component Library Editor",
+      "desc": "Reusable component collection"
+    },
+    {
+      "category": "Brand & Asset-Management Editors",
+      "name": "Style Guide Editor",
+      "desc": "Living style guide documentation"
+    },
+    {
+      "category": "Brand & Asset-Management Editors",
+      "name": "Template Collection Editor",
+      "desc": "Manage template sets"
+    },
+    {
+      "category": "Brand & Asset-Management Editors",
+      "name": "Brand Compliance Editor",
+      "desc": "Enforce brand guidelines"
+    }
+  ],
+  "services": [
+    [
+      "media",
+      "new"
+    ],
+    [
+      "publishing",
+      "core"
+    ],
+    [
+      "document",
+      "core"
+    ],
+    [
+      "agent",
+      "core"
+    ],
+    [
+      "model",
+      "core"
+    ],
+    [
+      "asset",
+      "gap"
+    ],
+    [
+      "collaboration",
+      "gap"
+    ]
+  ]
+}
